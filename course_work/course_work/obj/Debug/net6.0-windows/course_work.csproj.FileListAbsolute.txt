@@ -1,0 +1,84 @@
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.AssemblyReference.cache
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.Form1.resources
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfo.cs
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\bin\Debug\net6.0-windows\course_work.exe
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\bin\Debug\net6.0-windows\course_work.deps.json
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\bin\Debug\net6.0-windows\course_work.runtimeconfig.json
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\bin\Debug\net6.0-windows\course_work.dll
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\bin\Debug\net6.0-windows\course_work.pdb
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.dll
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\refint\course_work.dll
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.pdb
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\course_work.genruntimeconfig.cache
+C:\Users\focsit\Desktop\course work Danya\course_work\course_work\obj\Debug\net6.0-windows\ref\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.exe
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.deps.json
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.runtimeconfig.json
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.pdb
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.AssemblyReference.cache
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.Form1.resources
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfo.cs
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\refint\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.pdb
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.genruntimeconfig.cache
+C:\Users\antyp\Desktop\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\ref\course_work.dll
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\bin\Debug\net6.0-windows\course_work.exe
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\bin\Debug\net6.0-windows\course_work.deps.json
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\bin\Debug\net6.0-windows\course_work.runtimeconfig.json
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\bin\Debug\net6.0-windows\course_work.dll
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\bin\Debug\net6.0-windows\course_work.pdb
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.Form1.resources
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.dll
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\refint\course_work.dll
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.pdb
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\course_work.genruntimeconfig.cache
+C:\Users\eduar\OneDrive\Рабочий стол\course_work\course_work\obj\Debug\net6.0-windows\ref\course_work.dll
+E:\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.exe
+E:\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.deps.json
+E:\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.runtimeconfig.json
+E:\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.dll
+E:\Мой курсач\course_work\course_work\bin\Debug\net6.0-windows\course_work.pdb
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.AssemblyReference.cache
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.Form1.resources
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.GenerateResource.cache
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfoInputs.cache
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfo.cs
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.CoreCompileInputs.cache
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.dll
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\refint\course_work.dll
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.pdb
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\course_work.genruntimeconfig.cache
+E:\Мой курсач\course_work\course_work\obj\Debug\net6.0-windows\ref\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\bin\Debug\net6.0-windows\course_work.exe
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\bin\Debug\net6.0-windows\course_work.deps.json
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\bin\Debug\net6.0-windows\course_work.runtimeconfig.json
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\bin\Debug\net6.0-windows\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\bin\Debug\net6.0-windows\course_work.pdb
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.Form1.resources
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.GenerateResource.cache
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfoInputs.cache
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.AssemblyInfo.cs
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.csproj.CoreCompileInputs.cache
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\refint\course_work.dll
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.pdb
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\course_work.genruntimeconfig.cache
+C:\Users\antyp\Desktop\Мой курсач1\course_work\course_work\obj\Debug\net6.0-windows\ref\course_work.dll
